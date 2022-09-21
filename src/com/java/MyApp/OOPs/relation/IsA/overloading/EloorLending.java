@@ -1,6 +1,6 @@
 package com.java.MyApp.OOPs.relation.IsA.overloading;
 
-public class EloorLending {
+public class EloorLending extends Library{
 	
 	boolean isPublic;
 	String timing;
