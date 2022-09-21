@@ -1,6 +1,6 @@
 package com.java.MyApp.OOPs.relation.IsA;
 
-public class Whirlpool {
+public class Whirlpool extends Fridge {
 	
 	private short energyEfficiency;
 	private String temperature;
